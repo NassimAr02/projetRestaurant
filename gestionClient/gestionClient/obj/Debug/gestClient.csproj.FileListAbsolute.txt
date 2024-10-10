@@ -1,0 +1,6 @@
+C:\Users\nassi\OneDrive\Bureau\restaurant_corrigé\gestionClient\gestionClient\bin\Debug\gestionClient.dll
+C:\Users\nassi\OneDrive\Bureau\restaurant_corrigé\gestionClient\gestionClient\bin\Debug\gestionClient.pdb
+C:\Users\nassi\OneDrive\Bureau\restaurant_corrigé\gestionClient\gestionClient\obj\Debug\gestClient.csproj.AssemblyReference.cache
+C:\Users\nassi\OneDrive\Bureau\restaurant_corrigé\gestionClient\gestionClient\obj\Debug\gestClient.csproj.CoreCompileInputs.cache
+C:\Users\nassi\OneDrive\Bureau\restaurant_corrigé\gestionClient\gestionClient\obj\Debug\gestionClient.dll
+C:\Users\nassi\OneDrive\Bureau\restaurant_corrigé\gestionClient\gestionClient\obj\Debug\gestionClient.pdb
